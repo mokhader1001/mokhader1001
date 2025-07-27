@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Mohamed Yusuf Ahmed
 
-<!--
-**mokhader1001/mokhader1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+🚧 **Notice:** All of my repositories are currently private to ensure confidentiality, code quality, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in accessing any of my work for review, collaboration, or hiring purposes, feel free to get in touch directly.
+
+## 👨‍💻 About Me
+
+I’m a Software Engineer with a strong background in:
+- **Full-Stack Development** (Mobile & Web)
+- **Database Design & Management**
+- **System Architecture**
+- **Cybersecurity Fundamentals**
+
+📚 Certified in:
+- Full-Stack & Mobile App Development – SYD Academy  
+- Software Engineering – UMDEY  
+- Cybersecurity – Cybrary
+
+💼 Work Experience:
+- **Raed Innovations** (Feb 2025 – Present)  
+- **HogaanTech** (Dec 2023 – Dec 2024)
+
+## 📩 Contact Me
+
+- 📧 Email: mohamedyusuf441@gmail.com  
+- 📞 Phone: +252 617 937 851  
+- 🔗 LinkedIn: [mohamed-yusuf-ahmed-b0793733b](https://www.linkedin.com/in/mohamed-yusuf-ahmed-b0793733b)
+
+---
+
+🔐 To request access to any of my projects, please send a message via email or LinkedIn. I’ll be happy to share more details with you.
+
+Thank you for your interest!
