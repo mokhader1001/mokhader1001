@@ -20,7 +20,7 @@ I’m a Software Engineer with a strong background in:
 - Cybersecurity – Cybrary
 
 💼 Work Experience:
-- **Raed Innovations** (Dec 2024 – Present)  
+- **Raed Innovations** (Feb 2024 – Present)  
 - **HogaanTech** (Dec 2023 – Dec 2024)
 
 ## 📩 Contact Me
