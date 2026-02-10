@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-🚧 **Notice:** All of my repositories are currently private to ensure confidentiality, code quality, and security.
+🚧 **Notice:** Some of my repositories are currently private to ensure confidentiality, code quality, and security.
 
 If you're interested in accessing any of my work for review, collaboration, or hiring purposes, feel free to get in touch directly.
 
